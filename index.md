@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I present here some R code for data simulation and functions I created.
+It is a practise run for me :)
